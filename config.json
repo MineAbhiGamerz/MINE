@@ -1,8 +1,8 @@
 {
     "token": "",
     "language": "en",
-    "prefix": "!",
-    "mongodbUri": "",
+    "prefix": "A.",
+    "mongodbUri": "mongodb+srv://best:UDglXQEBZFuksePq@cluster0.68mktfu.mongodb.net/?retryWrites=true&w=majority",
     "geniusToken": "0CHr9jtPjR7EKraXUVv6__8ELmEwFeUwt5vYAhk-is_fGOq-10-epdMzESkMPUnf",
     "excessCommands": {
         "utility": true,
@@ -22,12 +22,12 @@
     },
      "lavalink": {
         "lavalink": {
-            "host": "lava.catfein.com",
-            "port": 4000,
-            "password": "catfein",
-            "secure": false
+            "host": "lava-v4.ajieblogs.eu.org",
+            "port": 443,
+            "password": "https://dsc.gg/ajidevserver",
+            "secure": true
         }
     }, 
-    "spotifyClientId": "f71a3da30e254962965ca2a89d6f74b9",
-    "spotifyClientSecret": "199a619d22dd4e55a4a2c1a7a3d70e63"
+    "spotifyClientId": "e6f84fbec2b44a77bf35a20c5ffa54b8",
+    "spotifyClientSecret": "498f461b962443cfaf9539c610e2ea81"
 }
